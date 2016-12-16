@@ -1,3 +1,4 @@
+#!/bin/bash
 defcon=1501138801
 date=$(date +%s)
 epochdelta=$(expr $defcon - $date)
